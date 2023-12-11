@@ -11,7 +11,7 @@ output:
 
 <img src="img/chaletAsma.jpeg" alt="Chalet de l'Asma" width = "240px" align="center"> </img>
 
-L'équipe [SOLsTIS](https://mia-ps.inrae.fr/solstis) de l'unité MIA Paris Saclay organise en 2024 son workshop biannuel **Statistiques au sommet de Rochebrune** du 24 au 29 mars 2024. 
+L'équipe [SOLsTIS](https://mia-ps.inrae.fr/solstis) de l'unité MIA Paris Saclay organise en 2024 son workshop biannuel **Statistiques au sommet de Rochebrune** en mars 2024. 
 
 <br> 
 
