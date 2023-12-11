@@ -1,0 +1,23 @@
+name: "Statistiques au Sommet de Rochebrune"
+output_dir: "."
+navbar:
+  logo: img/LogoINRAE-MIA.jpg
+  title: 'Statistiques au Sommet de Rochebrune'
+  right:
+  - text: "MIA Paris Saclay"
+    icon: fa-house
+    href: https://mia-ps.inrae.fr/
+  
+    
+     
+      
+
+             
+  
+
+     
+      
+output:
+  html_document:
+    theme: flatly
+    highlight: haddock
