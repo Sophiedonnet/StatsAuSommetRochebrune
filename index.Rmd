@@ -33,9 +33,11 @@ L'organisation originelle de ce workshop revient à [E. Parent](https://mia-ps.i
 
  - Le programme  2024 est en cours d'élaboration. Le cours sera donné par [P. Barbillon](https://mia-ps.inrae.fr/pierre-barbillon). 
  - [Programme 2022](programme/programme_rochebrune_2022.pdf).  **Cours** par [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) et [L. Clarotto](https://mia-ps.inrae.fr/lucia-clarotto).
- - Programme 2020 (cette édition a eu lieu en ligne en 2021)
- - [Programme 2018](programme/progroch2018.pdf)  **Cours** par ???
- - [Programme 2016](programme/) **Cours** par ???
+ - Programme 2020 (cette édition a eu lieu en ligne en 2021). **Cours** de [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) sur INLA et la modélisation statistique pour les données spatialisées
+ - [Programme 2018](programme/progroch2018.pdf)  **Cours** par [J. Arbel](https://www.julyanarbel.com/) sur les processus de Dirichlet et l'inférence bayésienne non paramétrique
+ - [Programme 2016](programme/progroch2016.pdf) **Cours** par L. Schwaller sur les modèles graphiques
+ - Programme 2014 **Cours** par [S. Le Corff](https://sylvainlc.github.io/) sur les filtres particulaires
+
 
 Le programme  s'articule autour d'un cours de 3*2h. Tous les participants présentent leur travaux au cours d'un exposé d'une vingtaine de minutes. 
 Les milieux d'après midi sont laissés libre afin de profiter des activités de montagne.
