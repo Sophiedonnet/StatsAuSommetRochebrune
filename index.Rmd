@@ -11,7 +11,7 @@ output:
 
 <img src="img/chaletAsma.jpeg" alt="Chalet de l'Asma" width = "240px" align="center"> </img>
 
-L'équipe [SOLsTIS](https://mia-ps.inrae.fr/solstis) de l'unité MIA Paris Saclay organise en 2024 son workshop biannuel **Statistiques au sommet de Rochebrune** en mars 2024. 
+L'équipe [SOLsTIS](https://mia-ps.inrae.fr/solstis) de l'unité MIA Paris Saclay organise en mars 2024 son workshop bi-annuel **Statistiques au sommet de Rochebrune**.
 
 <br> 
 
@@ -22,25 +22,33 @@ Entre 30 et 40 participant(e)s, chercheur(e)s débutant(e)s ou confirmé(e)s se 
 
 <br> 
 
-## Les organisateurs 
 
-L'organisation originelle de ce workshop revient à [E. Parent](https://mia-ps.inrae.fr/eric-parent). Suite à son départ en retraite officiel, cette organisation est assurée cette année par [S. Donnet](https://mia-ps.inrae.fr/sophie-donnet) et [P. Gloguen](https://papayoun.github.io/). 
-
-<br> 
 
 ## Programme
 
 
- - Le programme  2024 est en cours d'élaboration. Le cours sera donné par [P. Barbillon](https://mia-ps.inrae.fr/pierre-barbillon). 
+ - Le **Programme  2024** des exposés courts  est en cours d'élaboration. Il s'articulera autour de 4 exposés longs portant sur  l'apprentissage profond:
+    - *Jour 1* : Autoencodeurs variationnels et au délà (Pierre Gloaguen)
+    - *Jour 2* : Graph Neural Networks (Pierre Barbillon)
+    - *Jour 3* : Introduction aux Physics-Informed Neural Networks (Hugo Gangloff)
+    - *Jour 4* : Ce que le Deep m'a apporté? (Stéphanie Mahévas) 
+  
+ <br>
+ 
+### Programmes passés
+
  - [Programme 2022](programme/programme_rochebrune_2022.pdf).  **Cours** par [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) et [L. Clarotto](https://mia-ps.inrae.fr/lucia-clarotto).
+ 
  - Programme 2020 (cette édition a eu lieu en ligne en 2021). **Cours** de [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) sur INLA et la modélisation statistique pour les données spatialisées
+ 
  - [Programme 2018](programme/progroch2018.pdf)  **Cours** par [J. Arbel](https://www.julyanarbel.com/) sur les processus de Dirichlet et l'inférence bayésienne non paramétrique
+ 
  - [Programme 2016](programme/progroch2016.pdf) **Cours** par L. Schwaller sur les modèles graphiques
  - Programme 2014 **Cours** par [S. Le Corff](https://sylvainlc.github.io/) sur les filtres particulaires
 
 
-Le programme  s'articule autour d'un cours de 3*2h. Tous les participants présentent leur travaux au cours d'un exposé d'une vingtaine de minutes. 
-Les milieux d'après midi sont laissés libre afin de profiter des activités de montagne.
+Le programme  s'articule autour d'un cours ou d'une série d'exposés longs. Tous les participants présentent leur travaux sous la forme d'un exposé d'une vingtaine de minutes. 
+Les milieux d'après midi sont laissés libres afin de profiter des activités de montagne autour du chalet.
 
 <br> 
 
@@ -51,9 +59,10 @@ Ce workshop a lieu dans un cadre exceptionnel, au [chalet de l'Asma](https://www
 
 <br> 
 
+## Les organisateurs 
 
-## Organisation
+L'organisation originelle de ce workshop revient à [E. Parent](https://mia-ps.inrae.fr/eric-parent). Suite à son départ en retraite officiel, cette organisation est assurée cette année par [S. Donnet](https://mia-ps.inrae.fr/sophie-donnet) et [P. Gloguen](https://papayoun.github.io/). 
 
-Le chalet est confortable mais rustiques. Les particpants sont hébergés en chambres de 2 à 5 personnes. 
+<br> 
 
 
