@@ -27,23 +27,24 @@ Entre 30 et 40 participant(e)s, chercheur(e)s débutant(e)s ou confirmé(e)s se 
 ## Programme
 
 
- - Le **Programme  2024** des exposés courts  est en cours d'élaboration. Il s'articulera autour de 4 exposés longs portant sur  l'apprentissage profond:
+ - Le [Programme  2024](programmes/programme_rochebrune_2024.pdf) des exposés courts  est maintenant disponible.  Il s'articulera autour de 4 exposés longs portant sur  l'apprentissage profond:
     - *Jour 1* : Autoencodeurs variationnels et au délà (Pierre Gloaguen)
     - *Jour 2* : Graph Neural Networks (Pierre Barbillon)
     - *Jour 3* : Introduction aux Physics-Informed Neural Networks (Hugo Gangloff)
     - *Jour 4* : Ce que le Deep m'a apporté? (Stéphanie Mahévas) 
   
+Les autres exposés sont ici.   
  <br>
  
 ### Programmes passés
 
- - [Programme 2022](programme/programme_rochebrune_2022.pdf).  **Cours** par [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) et [L. Clarotto](https://mia-ps.inrae.fr/lucia-clarotto).
+ - [Programme 2022](programmes/programme_rochebrune_2022.pdf).  **Cours** par [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) et [L. Clarotto](https://mia-ps.inrae.fr/lucia-clarotto).
  
  - Programme 2020 (cette édition a eu lieu en ligne en 2021). **Cours** de [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) sur INLA et la modélisation statistique pour les données spatialisées
  
- - [Programme 2018](programme/progroch2018.pdf)  **Cours** par [J. Arbel](https://www.julyanarbel.com/) sur les processus de Dirichlet et l'inférence bayésienne non paramétrique
+ - [Programme 2018](programmes/progroch2018.pdf)  **Cours** par [J. Arbel](https://www.julyanarbel.com/) sur les processus de Dirichlet et l'inférence bayésienne non paramétrique
  
- - [Programme 2016](programme/progroch2016.pdf) **Cours** par L. Schwaller sur les modèles graphiques
+ - [Programme 2016](programmes/progroch2016.pdf) **Cours** par L. Schwaller sur les modèles graphiques
  - Programme 2014 **Cours** par [S. Le Corff](https://sylvainlc.github.io/) sur les filtres particulaires
 
 
