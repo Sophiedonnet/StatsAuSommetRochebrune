@@ -3,6 +3,9 @@ output_dir: "."
 navbar:
   logo: img/LogoINRAE-MIA.jpg
   title: 'Statistiques au Sommet de Rochebrune'
+  left: 
+  - text: "Edition 2024"
+    href: 24_programme_final.html
   right:
   - text: "MIA Paris Saclay"
     icon: fa-house

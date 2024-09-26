@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Programme de l’édition 2024</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Statistiques au Sommet de Rochebrune</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="24_programme_final.html">Edition 2024</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://mia-ps.inrae.fr/">
+    <span class="fa fa-house"></span>
+     
+    MIA Paris Saclay
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Programme de l’édition 2024</h1>
+
+</div>
+
+
+<div id="lundi" class="section level1">
+<h1>Lundi</h1>
+<div id="matin" class="section level2">
+<h2>Matin</h2>
+<div id="rien-à-cacher" class="section level3">
+<h3>Rien à cacher</h3>
+<ul>
+<li>8h45 <strong>Pierre Gloaguen</strong> <a
+href="24_presentations/01_Pierre_Gloaguen.pdf"><em>Réseaux de neurones
+et modèles à variables latentes</em></a></li>
+<li>9h45 <strong>Guillaume Kon Kam King</strong> <a
+href="24_presentations/02_Guillaume_Kon-Kam-King.pdf"><em>Inférence
+duale pour les processus de diffusion partiellement
+observés</em></a></li>
+<li>10h10 <em>PAUSE</em></li>
+</ul>
+</div>
+<div id="on-compte-sur-vous" class="section level3">
+<h3>On compte sur vous</h3>
+<ul>
+<li>10h30 <strong>Julien Chiquet</strong> <a
+href="24_presentations/03_Julien_Chiquet.html"><em>Modélisation
+inférence de la zero Inflation dans les modèles PLN et
+PLNnetwork</em></a></li>
+<li>10h55 <strong>Jeanne Tous</strong> <a
+href="24_presentations/04_Jeanne_Tous.pdf"><em>PLN-Block : inférence de
+réseaux d’association à l’échelle de groupes d’espèces</em></a></li>
+<li>11h20 <strong>Barbara Bricout</strong> <a
+href="24_presentations/05_Barbara_Bricout.pdf"><em>Imputation de données
+manquantes dans des données de comptage</em></a></li>
+<li>11h45 <strong>Emily Walker</strong> <a
+href="24_presentations/06_Emily_Walker.pdf"><em>Les moustiques ça pique
+! (ou comment l’environnement peut expliquer -ou non- l’abondance de
+moustiques)</em></a></li>
+</ul>
+</div>
+</div>
+<div id="après-midi" class="section level2">
+<h2>Après midi</h2>
+<div id="six-mules-à-sion" class="section level3">
+<h3>Six mules à Sion</h3>
+<ul>
+<li>17h30 <strong>Sophie Donnet</strong> <a
+href="24_presentations/11_Sophie_Donnet.pdf"><em>ABC pour l’évaluation
+de l’état d’éco-systèmes désertiques</em></a></li>
+<li>17h55 <strong>Gabriel Victorino-Cardoso</strong> <a
+href="24_presentations/12_Gabriel_Victorino-Cardoso.pdf"><em>Echantillonage
+du posterior pour l’inférence sans vraissemblance avec des modèles de
+diffusion et multiples obsérvations.</em></a></li>
+<li>18h20 <strong>Bastien Batardiere</strong> <a
+href="24_presentations/13_Bastien_Batardiere.pdf"><em>Echantillonnage
+préférentiel pour l’approximation de gradients dans la famille
+exponentielle</em></a></li>
+<li>18h45 <strong>Remi Bardenet</strong> <a
+href="24_presentations/14_Remi_Bardenet.pdf"><em>Dépendance négative
+pour l’intégration par Monte Carlo</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="mardi" class="section level1">
+<h1>Mardi</h1>
+<div id="matin-1" class="section level2">
+<h2>Matin</h2>
+<div id="cest-graphe-docteur" class="section level3">
+<h3>C’est graphe, docteur?</h3>
+<ul>
+<li>8h45 <strong>Pierre Barbillon</strong> <a
+href="24_presentations/21_Pierre_Barbillon.pdf"><em>Réseaux de neurones
+et graphes</em></a></li>
+<li>9h45 <strong>Emre Anakok</strong> <a
+href="24_presentations/22_Emre_Anakok.pdf"><em>Analyse de l’impact de
+variables environnementales sur les réseaux plantes-pollinisateurs à
+l’aide d’auto-encodeurs variationnels pour graphes
+bipartites</em></a></li>
+<li>10h10 <em>PAUSE</em></li>
+</ul>
+</div>
+<div id="ammoniaque-cîmes-et-statistique" class="section level3">
+<h3>Ammoniaque, cîmes et statistique</h3>
+<ul>
+<li>10h30 <strong>Armand Favrot</strong> <a
+href="24_presentations/23_Armand_Favrot.pdf"><em>Apprentissage
+automatique pour prédire les émissions d’ammoniac</em></a></li>
+<li>10h55 <strong>Julie Aubert</strong> <a
+href="24_presentations/24_Julie_Aubert.html"><em>Stats et bactéries au
+service de la dépollution des sols</em></a></li>
+<li>11h20 <strong>Eric Parent</strong> <a
+href="24_presentations/25_Eric_Parent.pdf"><em>Gamma Shrinking Priors
+for embedding PCA within Bayesian Models</em></a></li>
+<li>11h45 <strong>Frederic Mortier</strong> <a
+href="24_presentations/26_Frederic_Mortier.pdf"><em>Group Fused Priors
+dans un cadre bayésien</em></a></li>
+</ul>
+</div>
+</div>
+<div id="après-midi-1" class="section level2">
+<h2>Après midi</h2>
+<div id="du-point-sur-la-table" class="section level3">
+<h3>Du point sur la table</h3>
+<ul>
+<li>17h30 <strong>Anna Bonnet</strong> <a
+href="24_presentations/31_Anna_Bonnet.pdf"><em>Changement de dynamique
+dans un processus de Hawkes</em></a></li>
+<li>17h55 <strong>Stephane Robin</strong> <a
+href="24_presentations/32_Stephane_Robin.pdf"><em>Segmentation -
+classification pour processus pontuels</em></a></li>
+<li>18h20 <strong>Felix Cheysson</strong> <a
+href="24_presentations/33_Felix_Cheysson.pdf"><em>Processus ponctuels
+spatiaux et neurogénèse chez le poisson-zèbre</em></a></li>
+</ul>
+</div>
+</div>
+<div id="soir" class="section level2">
+<h2>Soir</h2>
+<div id="des-astres-à-rochebrune" class="section level3">
+<h3>Des astres à Rochebrune</h3>
+<ul>
+<li>21h <strong>Denis Allard</strong> <a
+href="24_presentations/34_Denis_Allard.pdf"><em>Johannes Kepler: la
+ligne de partage des eaux</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="mercredi" class="section level1">
+<h1>Mercredi</h1>
+<div id="matin-2" class="section level2">
+<h2>Matin</h2>
+<div id="ca-devient-physique" class="section level3">
+<h3>Ca devient physique</h3>
+<ul>
+<li>8h45 <strong>Hugo Gangloff</strong> <a
+href="24_presentations/41_Hugo_Gangloff.pdf"><em>Réseaux de neurones et
+modèles physiques basés sur des équations différentielles</em></a></li>
+<li>9h45 <strong>Lucia Clarotto</strong> <a
+href="24_presentations/42_Lucia_Clarotto.pdf"><em>Champs aléatoires
+spatio-temporels sur des surfaces maillées définis à partir d’EDPS
+d’advection-diffusion</em></a></li>
+<li>10h10 <em>PAUSE</em></li>
+</ul>
+</div>
+<div id="faille-spatio-temporelle" class="section level3">
+<h3>Faille spatio-temporelle</h3>
+<ul>
+<li>10h30 <strong>Caroline Cognot</strong> <a
+href="24_presentations/43_Caroline_Cognot.pdf"><em>Générateur
+spatio-temporel de température en France</em></a></li>
+<li>10h55 <strong>Juliette Legrand</strong> <a
+href="24_presentations/44_Juliette_Legrand.pdf"><em>Simulation de
+hauteurs de vagues extrêmes</em></a></li>
+<li>11h20 <strong>Baptiste Alglave</strong> <a
+href="24_presentations/45_Baptiste_Alglave.pdf"><em>Empirical orthognoal
+functions et méthodes dérivées</em></a></li>
+<li>11h45 <strong>Nicolas Bez</strong> <em>Orthogonalité des fonctions
+aléatoires</em></li>
+</ul>
+</div>
+</div>
+<div id="après-midi-2" class="section level2">
+<h2>Après midi</h2>
+<div id="les-marginales" class="section level3">
+<h3>Les marginales</h3>
+<ul>
+<li>17h30 <strong>Marion Naveau</strong> <a
+href="24_presentations/51_Marion_Naveau.pdf"><em>Contraction a
+posteriori dans les modèles mixtes marginaux non-linéaires sous prior
+spike-and-slab</em></a></li>
+<li>17h55 <strong>Sarah Ouadah et Marie Perrot-Dockes</strong> <a
+href="24_presentations/52_Sarah-AND-Marie_Ouadah-AND-Perrot-Dockes.pdf"><em>Calcul
+de vraisemblances marginales à partir de simulations a posteriori
+utilisant l’estimateur THAMES</em></a></li>
+<li>18h45 <strong>Jean-Jacques Boreux</strong> <a
+href="24_presentations/53_Jean-Jacques_Boreux.pdf"><em>30 ans
+d’apprentissage et encore beaucoup de questions</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="jeudi" class="section level1">
+<h1>Jeudi</h1>
+<div id="matin-3" class="section level2">
+<h2>Matin</h2>
+<div id="tous-dans-le-même-bateau" class="section level3">
+<h3>Tous dans le même bateau</h3>
+<ul>
+<li>8h45 <strong>Stephanie Mahevas</strong> <em>Réseaux de neurones et
+applications à l’halieutique</em></li>
+<li>9h45 <strong>Saint-Clair Chabbert-Liddel</strong> <a
+href="24_presentations/62_Saint-Clair_Chabbert-Liddel.pdf"><em>Maman,
+les p’tits bateaux qui vont sur l’eau font ils du zèle?</em></a></li>
+<li>10h10 <em>PAUSE</em></li>
+</ul>
+</div>
+<div id="qui-ne-se-gène-pô-gène-au-trait" class="section level3">
+<h3>Qui ne se gène Pô, gène au trait</h3>
+<ul>
+<li>10h30 <strong>Christophe Ambroise</strong> <a
+href="24_presentations/63_Christophe_Ambroise.pdf"><em>Analyses
+génomiques basées sur des pools pour les données GWAS multi-traits et le
+calcul du GEBV</em></a></li>
+<li>10h55 <strong>Tristan Mary-Huard</strong> <a
+href="24_presentations/64_Tristan_Mary-Huard.pdf"><em>Inférence de
+l’admixture locale dans des populations polyploides</em></a></li>
+<li>11h20 <strong>Paul Bastide</strong> <a
+href="24_presentations/65_Paul_Bastide.pdf"><em>Des réseaux
+phylogénétiques aux réseaux bayésiens</em></a></li>
+<li>11h45 <strong>Denis Allard</strong> <a
+href="24_presentations/66_Denis_Allard.pdf"><em>Un modèle Gaussien Tobit
+pour modéliser des séquences géologiques: application aux acquifères de
+la plaine du Pô</em></a></li>
+</ul>
+</div>
+</div>
+<div id="après-midi-3" class="section level2">
+<h2>Après midi</h2>
+<div id="diffusions-du-savoir" class="section level3">
+<h3>Diffusions du savoir</h3>
+<ul>
+<li>17h30 <strong>Sylvain Le Corff</strong> <a
+href="24_presentations/71_Sylvain_Le-Corff.pdf"><em>Diffusions pour les
+problèmes inverses</em></a></li>
+<li>17h55 <strong>Gabriel Lang</strong> <a
+href="24_presentations/72_Gabriel_Lang.pdf"><em>Coïncidence dans des
+séries d’évolution individuelles indépendantes</em></a></li>
+<li>18h20 <strong>Marie-Pierre Etienne</strong> <a
+href="24_presentations/73_Marie-Pierre_Etienne.pdf"><em>Détection
+d’alterations dans des profils de gènes, cas d’une population
+infinie</em></a></li>
+<li>18h45 <a
+href="24_presentations/74_cloture.pdf"><em>Clôture</em></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

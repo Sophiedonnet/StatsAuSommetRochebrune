@@ -24,16 +24,15 @@ Entre 30 et 40 participant(e)s, chercheur(e)s débutant(e)s ou confirmé(e)s se 
 
 
 
-## Programme
+## Edition 2024
 
 
- - Le [Programme  2024](programmes/programme_rochebrune_2024.pdf) des exposés courts  est maintenant disponible.  Il s'articulera autour de 4 exposés longs portant sur  l'apprentissage profond:
-    - *Jour 1* : Autoencodeurs variationnels et au délà (Pierre Gloaguen)
-    - *Jour 2* : Graph Neural Networks (Pierre Barbillon)
-    - *Jour 3* : Introduction aux Physics-Informed Neural Networks (Hugo Gangloff)
-    - *Jour 4* : Ce que le Deep m'a apporté? (Stéphanie Mahévas) 
+ - L'intégralité des exposés ainsi que le programme de l'édition 2024 est disponible [sur cette page](24_programme_final.html). Ce programme s'articulait autour de 4 exposés longs portant sur  l'apprentissage profond:
+    - *Jour 1* : Réseaux de neurones et modèles à variables latentes (Pierre Gloaguen)
+    - *Jour 2* : Réseaux de neurones et graphes (Pierre Barbillon)
+    - *Jour 3* : Réseaux de neurones et modèles physiques basés sur des équations différentielles (Hugo Gangloff)
+    - *Jour 4* : Réseaux de neurones et applications à l’halieutique (Stéphanie Mahévas) 
   
-Les autres exposés sont ici.   
  <br>
  
 ### Programmes passés
