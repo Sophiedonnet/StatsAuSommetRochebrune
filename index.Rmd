@@ -71,7 +71,8 @@ Le car nous prendra à 11:00 dans Megève.
 
 Si vous souhaitez prolonger votre séjour pendant le week-end au chalet, c'est possible à vos frais. Merci de nous prévenir afin que vous puissiez régler votre facture avec l'ASMA. 
 
-<br> 
+<br>
+
 ## Les organisateurs 
 
 L'organisation originelle de ce workshop revient à [E. Parent](https://mia-ps.inrae.fr/eric-parent). Suite à son départ en retraite officiel, cette organisation est assurée cette année par [S. Donnet](https://mia-ps.inrae.fr/sophie-donnet) et [P. Gloguen](https://papayoun.github.io/). 
