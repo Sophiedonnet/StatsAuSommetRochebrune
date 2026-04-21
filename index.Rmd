@@ -11,7 +11,7 @@ output:
 
 <img src="img/chaletAsma.jpeg" alt="Chalet de l'Asma" width = "240px" align="center"> </img>
 
-L'équipe [SOLsTIS](https://mia-ps.inrae.fr/solstis) de l'unité MIA Paris Saclay organise en mars 2026 son workshop bi-annuel **Statistiques au sommet de Rochebrune**.
+L'équipe [SOLsTIS](https://mia-ps.inrae.fr/solstis) de l'unité MIA Paris Saclay organise en mars 2024 son workshop bi-annuel **Statistiques au sommet de Rochebrune**.
 
 <br> 
 
@@ -20,14 +20,22 @@ L'équipe [SOLsTIS](https://mia-ps.inrae.fr/solstis) de l'unité MIA Paris Sacla
 Entre 30 et 40 participant(e)s, chercheur(e)s débutant(e)s ou confirmé(e)s se retrouvent tous les deux ans pour suivre un cours,  présenter leurs travaux en cours et en discuter, dans une ambiance chaleureuse et conviviale.  La participation se fait sur **invitation**. 
 
 
-## Edition 2026
+<br> 
 
 
-2026
+
+## Edition 2024
+
+
+ - L'intégralité des exposés ainsi que le programme de l'édition 2024 est disponible [sur cette page](24_programme_final.html). Ce programme s'articulait autour de 4 exposés longs portant sur  l'apprentissage profond:
+    - *Jour 1* : Réseaux de neurones et modèles à variables latentes (Pierre Gloaguen)
+    - *Jour 2* : Réseaux de neurones et graphes (Pierre Barbillon)
+    - *Jour 3* : Réseaux de neurones et modèles physiques basés sur des équations différentielles (Hugo Gangloff)
+    - *Jour 4* : Réseaux de neurones et applications à l’halieutique (Stéphanie Mahévas) 
+  
+ <br>
  
 ### Programmes passés
-
- - [Programme 2024](24_programme_final.html).  **Cours** par Pierre Gloaguen, Pierre Barbillon, Hugo Gangloff et Stéphanie Mahévas.
 
  - [Programme 2022](programmes/programme_rochebrune_2022.pdf).  **Cours** par [D. Allard](https://biosp.mathnum.inrae.fr/homepage-denis-allard) , [T. Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) et [L. Clarotto](https://mia-ps.inrae.fr/lucia-clarotto).
  
@@ -71,7 +79,7 @@ Le car nous prendra à 11:00 dans Megève.
 
 Si vous souhaitez prolonger votre séjour pendant le week-end au chalet, c'est possible à vos frais. Merci de nous prévenir afin que vous puissiez régler votre facture avec l'ASMA. 
 
-<br>
+<br> 
 
 ## Les organisateurs 
 
